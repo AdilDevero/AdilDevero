@@ -68,14 +68,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AdilDevero&theme=darkhub&row=1">
 </p> -->
 
----
+
 
 
 <!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p> -->
 
----
+
 
 ## 👀 Profile Views
 <p align="center">
