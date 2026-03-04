@@ -58,14 +58,14 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark">
+  <img src="https://streak-stats.demolab.com?user=AdilDevero&theme=dark">
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&row=1">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdilDevero&theme=darkhub&row=1">
 </p>
 
 ---
@@ -79,5 +79,5 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=AdilDevero&color=blue">
 </p>
