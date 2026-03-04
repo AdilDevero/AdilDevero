@@ -45,15 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdilDevero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilDevero&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-</p>
----
 
 ## 🔥 GitHub Streak
 <p align="center">
