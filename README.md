@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white"> -->
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
 </p>
 
@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdilDevero&show_icons=true&theme=dark">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilDevero&layout=compact&theme=dark">
 </p>
 
 ---
