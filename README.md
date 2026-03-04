@@ -15,9 +15,9 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://kick.com/YOUR_KICK_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Kick-00FF5A?logo=kick&logoColor=black">
+</a>
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white">
   </a>
