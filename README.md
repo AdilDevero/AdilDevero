@@ -15,24 +15,27 @@
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://kick.com/YOUR_KICK_USERNAME" target="_blank">
+  <a href="https://kick.com/anassxd" target="_blank">
   <img src="https://img.shields.io/badge/Kick-00FF5A?logo=kick&logoColor=black">
 </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/its_anassch99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white">
   </a>
-  <a href="https://facebook.com/" target="_blank">
+  <!-- <a href="https://facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white">
-  </a>
+  </a> -->
+  <a href="https://discord.gg/pNPJ3KGnBz" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
+</a>
 </p>
 
 ---
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white"> -->
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white">
